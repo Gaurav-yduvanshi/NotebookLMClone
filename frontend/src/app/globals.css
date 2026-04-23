@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --amber:   #b88320;
+  --cream:   #f5f0e8;
+  --surface: #1a1917;
+  --deep:    #0a0908;
+  --border:  #2a2825;
+  --muted:   #6b6560;
+  --prose:   #c8c3bb;
+  --success: #34a853;
+  --error:   #ea4335;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: #1a1917; }
+::-webkit-scrollbar-thumb { background: #b88320; border-radius: 2px; }
+
+/* Skeleton shimmer */
+@keyframes shimmer {
+  0%   { background-position: -600px 0; }
+  100% { background-position: 600px 0; }
+}
+.shimmer {
+  background: linear-gradient(90deg, #1a1917 25%, #242220 50%, #1a1917 75%);
+  background-size: 600px 100%;
+  animation: shimmer 1.6s ease-in-out infinite;
+}
+
+/* Streaming cursor blink */
+@keyframes blink { 0%, 100% { opacity: 1 } 50% { opacity: 0 } }
+.cursor-blink { animation: blink 0.8s step-end infinite; }
