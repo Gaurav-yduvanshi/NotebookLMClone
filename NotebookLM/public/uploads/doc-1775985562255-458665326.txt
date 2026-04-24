@@ -1,0 +1,12 @@
+| **Sensor**                       | **Indian Mines (Usage)**                                                                     | **Foreign Mines (Usage + Country)**                                  |
+| -------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **Multipoint Extensometer**      | Hindustan Zinc Limited (Rampura Agucha, Sindesar Khurd) – Underground deformation monitoring | Rio Tinto (Australia) – Pit wall deformation                         |
+|                                  | Tata Steel Mining Limited (Noamundi) – Slope & dump stability                                | Vale S.A. (Brazil) – Tailings dam monitoring                         |
+| **MEMS / Borehole Inclinometer** | Coal India Limited (Jharia, Raniganj) – Subsidence & slope failure                           | BHP (Chile – Escondida) – Slope movement                             |
+|                                  | National Aluminium Company (NALCO) (Odisha) – Landslide detection                            | Vale S.A. (Brazil) – Tailings dam safety                             |
+| **GBSAR (Ground-Based Radar)**   | National Aluminium Company (NALCO) (Odisha) – Limited use for slope monitoring               | Rio Tinto (Australia) – Real-time slope failure prediction           |
+|                                  | (Used in few large mines in India, not widespread)                                           | Freeport-McMoRan (Indonesia – Grasberg) – High-risk slope monitoring |
+|                                  |                                                                                              | BHP (Chile) – Large open-pit monitoring                              |
+| **Piezometer**                   | Hindustan Zinc Limited – Tailings dam pore pressure                                          | Vale S.A. (Brazil) – Dam stability monitoring                        |
+|                                  | Coal India Limited – Groundwater monitoring                                                  | BHP (Chile) – Tailings & slope safety                                |
+
